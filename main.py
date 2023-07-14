@@ -1,7 +1,3 @@
-# from game import Game
-# if __name__ == '__main__':
-#     game = Game()
-#     game.run_game()
 
 from game import Game
 from human import HumanPlayer
